@@ -1,2 +1,2 @@
 # tripmanager
-Demo project for Tripmanager
+Trip Manager
